@@ -51,6 +51,15 @@ With a strong commitment to continuous learning and teamwork, I am passionate ab
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/SamuelNovielli/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+## 🛡️ Cybersecurity Portfolio
+As part of my career journey, I’m documenting my hands-on labs focusing on:
+- Security Architecture & Testing  
+- Communication & Network Security  
+- Security Operations  
+
+This repo includes:
+- 📂 Organized lab write-ups from LabEx.io courses  
+- 🧪 Step-by-step guides with screenshots and lessons learned  
+- 📊 A portfolio tracker
+
+👉 [Explore my Cybersecurity LabEx Portfolio](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio)
