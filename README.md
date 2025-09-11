@@ -8,25 +8,12 @@ I am an aspiring Cybersecurity Analyst actively working toward a career in secur
 
 With a strong commitment to continuous learning and teamwork, I am passionate about safeguarding digital assets and collaborating with others to achieve security goals. I’d welcome the opportunity to discuss how my dedication and developing expertise can contribute to your organization’s success.
 
-## Skills
+## Skills:
 
-| Skill            | Associated Lab                                                                 |
-|------------------|---------------------------------------------------------------------------------|
-| Wireshark        | [Wireshark Playground](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/foundations/wireshark-playground.md) |
-| Nmap             | [Nmap Essentials](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/foundations/nmap-essentials.md) |
-| Linux Basics     | [Linux Basics](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/foundations/linux-basics.md) |
-| pfSense Firewall | [pfSense Firewall](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/network-defense/pfsense-firewall.md) |
-| Snort / Suricata | [Snort IDS](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/network-defense/snort-suricata-ids.md) |
-| Nessus           | [Nessus Vulnerability Scan](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/network-defense/nessus-vulnerability-scan.md) |
-| Burp Suite / ZAP | [Burp Suite Lab](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-testing/burp-zap.md) |
-| Metasploit       | [Metasploit Exploitation](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-testing/metasploit-exploitation.md) |
-| sqlmap           | [SQL Injection Lab](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-testing/sqlmap-sqli.md) |
-| Aircrack-ng      | [Wireless Security](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-testing/wireless-aircrack.md) |
-| Splunk           | [Splunk Basics](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-operations/splunk-logs.md) |
-| Wazuh / OSSEC    | [Wazuh Monitoring](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-operations/wazuh-monitoring.md) |
-| TheHive          | [TheHive IR Workflow](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-operations/thehive-ir.md) |
-| MISP             | [MISP Threat Intel](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/security-operations/misp-threat-intel.md) |
-| Red vs Blue      | [Capstone Project](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio/blob/main/labs/integration/red-vs-blue-capstone.md) |
+## My Cybersecurity Lab Portfolio
+
+[![Portfolio](https://img.shields.io/badge/-Cybersecurity%20Portfolio-004F98?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio)
+
 
 
 ## Tools
@@ -85,7 +72,4 @@ With a strong commitment to continuous learning and teamwork, I am passionate ab
 <img src="https://img.shields.io/badge/-SNHU%20B.S.%20Cybersecurity%20(In%20Progress)-004F98?&style=for-the-badge&logo=google-scholar&logoColor=white" />
 </div>
 
-## My Cybersecurity Lab Portfolio
-
-[![Portfolio](https://img.shields.io/badge/-Cybersecurity%20Portfolio-004F98?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio)
 
