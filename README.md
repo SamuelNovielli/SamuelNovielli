@@ -11,7 +11,7 @@ With a strong commitment to continuous learning and teamwork, I am passionate ab
 
 ## My Cybersecurity Lab Portfolio
 
-[![Portfolio](https://img.shields.io/badge/-Cybersecurity%20Portfolio-004F98?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Cybersecurity%20Portfolio-004F98?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/SamuelNovielli/Cybersecurity-Lab-Portfolio)
 
 
 
