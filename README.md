@@ -12,7 +12,7 @@ With a strong commitment to continuous learning and teamwork, I am passionate ab
 
 | Skill            | Associated Lab                                                                 |
 |------------------|---------------------------------------------------------------------------------|
-| Wireshark        | [Wireshark Playground](https://github.com/SamuelNovielli/blob/main/labs/foundations/wireshark-playground.md) |
+| Wireshark        | [Wireshark Playground](https://github.com/SamuelNovielli/main/labs/foundations/wireshark-playground.md) |
 | Nmap             | [Nmap Essentials](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio/blob/main/labs/foundations/nmap-essentials.md) |
 | Linux Basics     | [Linux Basics](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio/blob/main/labs/foundations/linux-basics.md) |
 | pfSense Firewall | [pfSense Firewall](https://github.com/SamuelNovielli/Cybersecurity-LabEx-Portfolio/blob/main/labs/network-defense/pfsense-firewall.md) |
