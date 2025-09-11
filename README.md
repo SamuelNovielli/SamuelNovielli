@@ -8,7 +8,6 @@ I am an aspiring Cybersecurity Analyst actively working toward a career in secur
 
 With a strong commitment to continuous learning and teamwork, I am passionate about safeguarding digital assets and collaborating with others to achieve security goals. I’d welcome the opportunity to discuss how my dedication and developing expertise can contribute to your organization’s success.
 
-## Skills:
 
 ## My Cybersecurity Lab Portfolio
 
