@@ -62,7 +62,7 @@ With a strong commitment to continuous learning and teamwork, I am passionate ab
 <div>
 <img src="https://img.shields.io/badge/-Security%2B%20(In%20Progress)-orange?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B%20(In%20Progress)-orange?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B%20(In%20Progress)-orange?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B%20(In%20Progress)-orange?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Education
