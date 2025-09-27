@@ -1,5 +1,5 @@
 # Hello, I'm Samuel
-<a href="www.linkedin.com/in/samuel-novielli-5790a44b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuel-novielli-5790a44b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an aspiring Cybersecurity Analyst actively working toward a career in securing digital infrastructure. I am currently pursuing certifications CompTIA Network+, and Security+ and CySA+, while earning my Bachelor’s Degree in Cybersecurity at Southern New Hampshire University.
